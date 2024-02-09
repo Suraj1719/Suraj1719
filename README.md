@@ -5,7 +5,8 @@ Here are Few things about me:
    - Pursuing My B.Tech (CSE) (2020-2024)🎈🎈🎈
    - Competitive Coder
    - Youtuber
-   - Support My YT Channel: [Ek Aur Enginner](https://www.youtube.com/channel/UCwd6_bsiuCAspaqVQacInqg)![YtYoutubeGIF](https://github.com/Suraj1719/Suraj1719/assets/101680569/5e71ebb9-1e73-4970-824d-04a985404f91)
+   - Support My YT Channel: [Ek Aur Enginner](https://www.youtube.com/channel/UCwd6_bsiuCAspaqVQacInqg)![YoutubeLogoGIF](https://github.com/Suraj1719/Suraj1719/assets/101680569/bcd841b0-bc88-41f5-8e5d-c78bf4671d8c)
+
 
 
 
