@@ -1,23 +1,23 @@
 ### Hi there 👋
-### Hello World 
+### Hello World 🌍
 
 Here are Few things about me:
-   - Pursuing My B.Tech (CSE) (2020-2024)
+   - Pursuing My B.Tech (CSE) (2020-2024)🎈🎈🎈
    - Competitive Coder
    - Youtuber
-   - Support My YT Channel: https://www.youtube.com/channel/UCwd6_bsiuCAspaqVQacInqg
+   - Support My YT Channel: [Ek Aur Enginner](https://www.youtube.com/channel/UCwd6_bsiuCAspaqVQacInqg)
 
 
 Coding Platforms Profile:
 
-   [LeetCode](https://leetcode.com/Suraj1607)
-   https://www.codechef.com/users/darksun_1607
-   https://codeforces.com/profile/Suraj1607
-   https://atcoder.jp/users/Darksun1607
-   https://auth.geeksforgeeks.org/user/suraj1607
+   [LeetCode 🥷](https://leetcode.com/Suraj1607)
+   [CodeChef 🥷](https://www.codechef.com/users/darksun_1607)
+   [CodeForce 🥷](https://codeforces.com/profile/Suraj1607)
+   [Atcoder 🥷](https://atcoder.jp/users/Darksun1607)
+   [GFG 🥷](https://auth.geeksforgeeks.org/user/suraj1607)
 
 Connect With Me:
-https://www.linkedin.com/in/suraj-kumar-behera-281a6622a/
+[LinkedIn](https://www.linkedin.com/in/suraj-kumar-behera-281a6622a/)
    
 
 
