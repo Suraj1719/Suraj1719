@@ -10,7 +10,7 @@ Here are Few things about me:
 
 Coding Platforms Profile:
 
-   https://leetcode.com/Suraj1607
+   [LeetCode](https://leetcode.com/Suraj1607)
    https://www.codechef.com/users/darksun_1607
    https://codeforces.com/profile/Suraj1607
    https://atcoder.jp/users/Darksun1607
