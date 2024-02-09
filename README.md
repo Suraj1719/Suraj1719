@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Here are few things about me:
+   - Pursuing My B.Tech (CSE) (2020-2024)
+   - Competitive Coder
+   - Youtuber Support My YT Channel: https://www.youtube.com/channel/UCwd6_bsiuCAspaqVQacInqg
+   - 
+
 <!--
 **Suraj1719/Suraj1719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
